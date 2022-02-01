@@ -2,6 +2,8 @@
 
 Reconstructing Westermosque with Deep Learning Techniques
 
+## Neural Style Transfer
+
 <br />
   <img src="https://github.com/kokostino/Westermosque/blob/main/resultsNST/ams20hm.png" width="500" /><br />
   <br />
