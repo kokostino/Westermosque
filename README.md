@@ -14,3 +14,7 @@ Reconstructing Westermosque with Deep Learning Techniques
   <img src="https://github.com/kokostino/Westermosque/blob/main/resultsNST/ams20ydfgdfg.png" width="500" /><br />
   <br />
   <img src="https://github.com/kokostino/Westermosque/blob/main/resultsNST/ams32.png" width="500" /><br />
+  
+  ## StyleGAN2-ADA
+  <br />
+  <img src="https://github.com/kokostino/Westermosque/blob/main/fakes000254.png" width="500" /><br />
