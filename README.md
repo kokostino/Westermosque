@@ -1,6 +1,10 @@
 # Westermosque
 
 Reconstructing Westermosque with Deep Learning Techniques
+## Motivation
+<br />
+  <img src="https://github.com/kokostino/Westermosque/blob/main/ideal.png" width="500" /><br />
+  <br />
 
 ## Neural Style Transfer
 
