@@ -4,7 +4,11 @@
 /scrapedcropped/
 /StyleGAN/
 ./DS_Store
-
+/BUILDINGS/
+Untitled.ipynb
+StyleGAN.ipynb
+StyleGAN2_Google_Colab.ipynb
+StyleGAN2_Interpolate.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
