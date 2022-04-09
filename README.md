@@ -25,6 +25,6 @@ Reconstructing Westermosque with Deep Learning Techniques
    <img src="https://github.com/kokostino/Westermosque/blob/main/resultsGAN/gannn.png" width="200" alt="20.8 fid"/><br />
   <br /><br />
   <img src="https://github.com/kokostino/Westermosque/blob/main/resultsGAN/grid.png" width="500" alt="20.8 fid"/>
-   <img src="https://github.com/kokostino/Westermosque/blob/main/resultsGAN/gridseed.png" width="500" alt="20.8 fid"/><br />
+   <img src="https://github.com/kokostino/Westermosque/blob/main/resultsGAN/gridseed.png" width="800" alt="20.8 fid"/><br />
   <br />
   <img src="https://github.com/kokostino/Westermosque/blob/main/resultsGAN/fakes000241.png" width="1000" /><br />
